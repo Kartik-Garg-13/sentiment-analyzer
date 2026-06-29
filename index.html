@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analyzer</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Sentiment Analyzer</h1>
+        <p>Type a movie review and find out if it's positive or negative.</p>
+
+        <textarea id="review-input" placeholder="Write your review here..."></textarea>
+
+        <button id="analyze-btn">Analyze</button>
+
+        <div id="result" class="hidden">
+            <span id="label-badge"></span>
+            <p id="confidence-text"></p>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
