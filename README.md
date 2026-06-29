@@ -45,5 +45,5 @@ percentage.
   Flask backend using fetch()
 
 ## Screenshots
-![alt text](<Screenshot 2026-06-30 023107.png>)
-![alt text](<Screenshot 2026-06-30 023223.png>)
+<img width="1917" height="1077" alt="Screenshot 2026-06-30 023107" src="https://github.com/user-attachments/assets/1377e465-4052-488f-8c42-e4d1ffd07793" />
+<img width="1917" height="1077" alt="Screenshot 2026-06-30 023223" src="https://github.com/user-attachments/assets/496e81f1-a775-49d7-94e0-8ba5c6ea802e" />
